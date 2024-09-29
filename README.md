@@ -13,7 +13,6 @@ This project involves a comprehensive analysis of sales data from a superstore. 
 - **Customer Information:** `Customer_ID`, `Customer_Name`, `Segment`, `Country`, `City`, `State`, `Postal_Code`, `Region`
 - **Product Details:** `Product_ID`, `Category`, `Sub_Category`, `Product_Name`
 - **Sales Metrics:** `Sales`, `Quantity`, `Discount`, `Profit`, `COGS (Cost of Goods Sold)`
-- **New Column - Recommendations:** Insights and strategic suggestions based on the analysis.
 
 ## Key Findings and Recommendations
 
